@@ -1,6 +1,6 @@
 <h1>Matheus Magalhães</h1>
 
-<a href=""><img style="width: 30px" src="./img/instagram.png"></a>
+<a href=""><img style="width: 30px" src="./instagram.png"></a>
 
 <li>👨🏻‍💻 full stack developer 
 <li>designer and technology lover 
