@@ -19,7 +19,7 @@
   
 ---------------------------
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMagalhaes-dev&layout=compact&theme=radical)](https://github.com/MatheusMagalhaes-dev/github-readme-stats)
+![Matheus Magalhaes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmagalhaes-dev&show_icons=true&theme=transparent)
   
 --------------------------
 ![Matheus Magalhaes GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&theme=radical)
