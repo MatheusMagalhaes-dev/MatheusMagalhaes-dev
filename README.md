@@ -23,7 +23,7 @@
   
 --------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMagalhaes-dev)](https://github.com/MatheusMagalhaes-dev/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMagalhaes-dev&theme=radical)](https://github.com/MatheusMagalhaes-dev/github-readme-stats)
   
 --------------------------------------
 
