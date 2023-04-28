@@ -19,7 +19,7 @@
   
 ---------------------------
   
-![Matheus Magalhaes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmagalhaes-dev&show_icons=true&theme=transparent)
+![Matheus Magalhaes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&show_icons=true&theme=transparent)
   
 --------------------------
 ![Matheus Magalhaes GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&theme=radical)
