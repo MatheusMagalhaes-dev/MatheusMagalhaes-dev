@@ -16,10 +16,13 @@
 <li>I love playing video games
 <li>I like metal, rock, rap, pop and many other musical styles
 <li>I'm starting to raise my portfolio on github, come back often
-
-
+  
+---------------------------
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMagalhaes-dev&layout=compact&theme=radical)](https://github.com/MatheusMagalhaes-dev/github-readme-stats)
+  
 --------------------------
 ![Matheus Magalhaes GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&theme=radical)
 
 --------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMagalhaes-dev&layout=compact&theme=radical)](https://github.com/MatheusMagalhaes-dev/github-readme-stats)
+
