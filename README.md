@@ -18,9 +18,9 @@
 ---------------------------
   
 My social networks
-  <a href="https://www.instagram.com/matheusmagalhaes.dev/">
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
- </a>  
+  <a href="https://www.instagram.com/matheusmagalhaes.dev/">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a> 
+
+  
 --------------------------
   
 ![Matheus Magalhaes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&show_icons=true&theme=radical)
