@@ -18,7 +18,7 @@
 ---------------------------
   
 My social networks
-  <a href="https://www.instagram.com/matheusmagalhaes.dev/">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a> 
+  <a href="https://www.instagram.com/matheusmagalhaes.dev/"><img src="https://skillicons.dev/icons?i=instagram"></a> 
 
   
 --------------------------
