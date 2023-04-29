@@ -1,7 +1,5 @@
 <h1>Matheus Magalhães</h1>
 
-<a href=""><img style="width: 30px" src="./instagram.png"></a>
-
 <li>👨🏻‍💻 full stack developer 
 <li>designer and technology lover 
 <li>passionate about studies 
@@ -18,6 +16,12 @@
 <li>I'm starting to raise my portfolio on github, come back often
   
 ---------------------------
+  
+My social networks
+  <a href="https://www.instagram.com/matheusmagalhaes.dev/">
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+ </a>  
+--------------------------
   
 ![Matheus Magalhaes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&show_icons=true&theme=radical)
   
