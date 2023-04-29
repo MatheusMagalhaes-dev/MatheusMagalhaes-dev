@@ -20,9 +20,10 @@
 My social networks
 <br>  
 
-  <a href="https://www.instagram.com/matheusmagalhaes.dev/"><img src="https://skillicons.dev/icons?i=instagram"></a> 
+  <a href="https://www.instagram.com/matheusmagalhaes.dev/"><img src="https://skillicons.dev/icons?i=instagram"></a>
+  <a href="https://www.instagram.com/matheusmagalhaes.dev/"><img src="https://skillicons.dev/icons?i=twitter"></a> 
+  <a href="https://www.instagram.com/matheusmagalhaes.dev/"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
 
-  
 --------------------------
   
 ![Matheus Magalhaes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&show_icons=true&theme=radical)
