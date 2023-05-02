@@ -30,9 +30,9 @@ My social networks
   
 --------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMagalhaes-dev&theme=radical)](https://github.com/MatheusMagalhaes-dev/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMagalhaes-dev&theme=radical)](https://github.com/MatheusMagalhaes-dev/github-readme-stats)
   
 --------------------------------------
 
-(https://skillicons.dev/icons?i=js,html,css,ts,ae,bootstrap,figma,git,github,ps,pr,vscode,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,ae,bootstrap,figma,git,github,ps,pr,vscode,svelte)](https://skillicons.dev)
 
