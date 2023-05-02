@@ -26,7 +26,7 @@ My social networks
 
 --------------------------
   
-![Matheus Magalhaes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&show_icons)
+![Matheus Magalhaes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&show_icons&theme=radical)
   
 --------------------------
 
