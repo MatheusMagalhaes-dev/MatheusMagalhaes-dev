@@ -26,11 +26,11 @@ My social networks
 
 --------------------------
   
-![Matheus Magalhaes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&show_icons&theme=radical)
+![Matheus Magalhaes-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMagalhaes-dev&show_icons&theme=dark)
   
 --------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMagalhaes-dev&theme=radical)](https://github.com/MatheusMagalhaes-dev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMagalhaes-dev&theme=dark)](https://github.com/MatheusMagalhaes-dev/github-readme-stats)
   
 --------------------------------------
 
