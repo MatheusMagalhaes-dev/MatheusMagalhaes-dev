@@ -34,5 +34,5 @@ My social networks
   
 --------------------------------------
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,ae,bootstrap,figma,git,github,ps,pr,vscode,svelte)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=js,html,css,ts,ae,bootstrap,figma,git,github,ps,pr,vscode,svelte)](https://skillicons.dev)
 
