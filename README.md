@@ -20,7 +20,7 @@
 # My social networks
 
   <a href="https://www.instagram.com/matheusmagalhaes.dev/"><img src="https://skillicons.dev/icons?i=instagram"></a>
-  <a href="(https://www.linkedin.com/in/matheus-magalh%C3%A3es-962b4024a/)"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
+  <a href="https://www.linkedin.com/in/matheus-magalh%C3%A3es-962b4024a/"><img src="https://skillicons.dev/icons?i=linkedin"></a> 
 
 --------------------------
   
