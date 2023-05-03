@@ -1,9 +1,9 @@
-<h1>Matheus Magalhães</h1>
+#Matheus Magalhães</h1>
 
-<li>👨🏻‍💻 full stack developer 
-<li>💻 designer and technology lover 
-<li>📔 passionate about studies 
-<li>🌅 fond of new horizons
+####👨🏻‍💻 full stack developer 
+####💻 designer and technology lover 
+####📔 passionate about studies 
+####🌅 fond of new horizons
 
 <h1>About me 🙋‍♂️</h1>
 <li>22 years
