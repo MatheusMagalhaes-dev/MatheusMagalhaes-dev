@@ -1,6 +1,6 @@
 # Matheus Magalhães
 
-+ 👨🏻‍💻 full stack developer r
++ 👨🏻‍💻 full stack developer
 + 💻 designer and technology lover 
 + 📔 passionate about studies 
 + 🌅 fond of new horizons
